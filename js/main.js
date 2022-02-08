@@ -10,7 +10,7 @@
       ? html.classList.remove("a0")
       : html.classList.add("a0");
   };
-  darkModeToggler();
+  //darkModeToggler();
 
   darkTogglerCheckbox.addEventListener("click", darkModeToggler);
 
